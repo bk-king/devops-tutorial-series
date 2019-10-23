@@ -1,6 +1,6 @@
 # devops-tutorial-series
 Devops related stuff
-essential tools and technologies that an Devops engineer requires
+Essential tools and technologies that an Devops engineer requires
 Linux 
 SCM(ex:GIT,SVN,BitBucket,etc..,).
 BUilD TOOLS (ANT,MAVEN,GRADLE,MS-Build,etc..).
@@ -20,3 +20,11 @@ KEYWORDS:
  Please go through this link for major difference between Agile,CI/CD and Devops and how they are inter releated 
  
  https://www.synopsys.com/blogs/software-security/agile-cicd-devops-difference/
+ 
+ Tips:
+ 
+ Here’s a quick and easy way to differentiate agile, DevOps, and CI/CD:
+
+Agile focuses on processes highlighting change while accelerating delivery.
+CI/CD focuses on software-defined life cycles highlighting tools that emphasize automation.
+DevOps focuses on culture highlighting roles that emphasize responsiveness.
