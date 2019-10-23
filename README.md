@@ -11,7 +11,7 @@ Infrastucture automation or management using cloud based techonoliges like AWS,A
 Containerisation services like DOCKER.
 Orchestration of containers using Doker Swarm or Kubernets.
 
-Above described are few of the tools and techonoliges compines are using to implement Devops culture are practices for product/apllication developent or enhancements.
+Above described are few of the tools and techonoliges compines are using to implement Devops culture are practices for product/application developent or enhancements.
 
 KEYWORDS:
  Orchestration describes automated arrangement, coordination, and management of complex computer systems, and services.
